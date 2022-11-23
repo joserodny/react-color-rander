@@ -1,0 +1,8 @@
+.color-square {
+    display: flex;
+    width: 40rem;
+    height: 10rem;
+    margin-top: 5rem;
+    justify-content: center;
+    align-items: center;
+}
